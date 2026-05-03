@@ -2,4 +2,5 @@
 . Melakukan streaming bersama bebet mengunakan OBS
 - Bergabung dengan rencana video bebet
   ^ Konten video bersama mencari moment lucu
+  ^ Bermain game baru seperti Helldiver 2
 - Video Streaming PUBG
